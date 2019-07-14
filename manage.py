@@ -3,7 +3,8 @@
   lpm0073@gmail.com
   https://lawrencemcdaniel.com
 
-  Usage: high-level Rover infrastructure and platform management methods
+  Usage: high-level code sample / supplement for Jul-2019 blog post on automating
+  AWS management operations.
 """
 
 from helpers.aws import tag_get, ec2_instance_list, ip_address_get, \
